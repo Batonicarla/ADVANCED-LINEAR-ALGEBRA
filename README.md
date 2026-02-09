@@ -1,10 +1,10 @@
 # PCA – Advanced Linear Algebra Assignment
 PCA-Advanced-Linear-Algebra/
 │
-├── pca_assignment.ipynb
-├── README.md
-└── data/
-    └── dataset.csv
+├──  pca_assignment.ipynb
+├──  README.md
+└──  data/
+     └── dataset.csv
 
 ## Description
 This project implements Principal Component Analysis (PCA) from scratch using eigenvalues and eigenvectors to reduce dimensionality of an African-based dataset.
